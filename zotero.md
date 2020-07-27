@@ -19,3 +19,6 @@ There is plenty of information about Zotero on the [official website](https://ww
 2. You need to be a member of the group library (check your email, because you should have received an invitation email...).
 3. You need to be logged in.
 4. Now you can start collaborating with the library!
+
+Note: In order to watch the following video you need to be signed in with Office 365. 
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/394cf147-a0f4-4a00-837b-081e7e492579?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>

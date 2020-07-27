@@ -4,7 +4,7 @@ We have set up a Zotero group library. The library contains all the required and
 
 ## Link to the group library 
 
-* [Click here](https://www.zotero.org/groups/2517216/2020_54005_dmi/library) to reach the library page
+* <a href="https://www.zotero.org/groups/2517216/2020_54005_dmi/library" target="_blank">Click here</a> to reach the library page.
 
 ## What is Zotero
 
